@@ -1,0 +1,25 @@
+{
+  "name": "@ts-quickfixes/plugin",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamj0rd2/monorepo-testing.git"
+  },
+  "keywords": [],
+  "author": "tamj0rd2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamj0rd2/monorepo-testing/issues"
+  },
+  "homepage": "https://github.com/tamj0rd2/monorepo-testing#readme",
+  "devDependencies": {
+    "semantic-release": "^17.2.2",
+    "semantic-release-monorepo": "^7.0.3"
+  }
+}
