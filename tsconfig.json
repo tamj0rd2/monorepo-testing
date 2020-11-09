@@ -1,0 +1,8 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "references": [
+    { "path": "./apps/extension" },
+    { "path": "./apps/plugin" },
+  ],
+  "exclude": ["node_modules",]
+}
